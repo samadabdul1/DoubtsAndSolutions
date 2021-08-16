@@ -1,1 +1,1 @@
-# DoubtsAndSolutions
+# institute-management-sys
